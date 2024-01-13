@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 1 Salhi Abdou Arrahmane
 2 Hager bouimezgane
+=======
+1
+2-soukrati
+>>>>>>> 3d79c190a52f32a8921f83d6c383c266e834c3af
 3
 4
 5
